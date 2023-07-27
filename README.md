@@ -1,1 +1,3 @@
 # Spotify-dataset
+<h3>Project Overview</h3>
+<p>Spotify dataset from Kaggle: <a href="https://www.kaggle.com/datasets/conorvaneden/best-songs-on-spotify-for-every-year-2000-2023">https://www.kaggle.com/datasets/conorvaneden/best-songs-on-spotify-for-every-year-2000-2023</a> was used to analyze top songs between 2000-2023. Additionally, another table displaying title and artist was created using <a href="https://open.spotify.com/playlist/37i9dQZF1DX18jTM2l2fJY?si=2b1ae32486a54228">Spotify's Top 50 songs of 2022 playlist</a>. Various queries and data analysis will be performed using MySQL and Tableau. </p>
